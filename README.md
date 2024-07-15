@@ -1,4 +1,5 @@
 # crabnlp
+Library for spech2text, diarization and summarization meetings.
 ### Install
 ```
 cd crabnlp
