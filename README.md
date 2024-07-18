@@ -21,7 +21,7 @@
 
 
 # 
-Crabnlp Speaker Diarization pipeline based on OpenAI Whisper
+Crabnlp Transcription based on OpenAI Whisper and Custom Speaker Diarization 
 
 <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" alt="drawing" width="25"/> **Please, star the project on github (see top-right corner) if you appreciate my contribution to the community!**
 
