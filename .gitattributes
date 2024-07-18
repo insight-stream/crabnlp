@@ -1,0 +1,3 @@
+models/whisper-medium-ct2/model.bin filter=lfs diff=lfs merge=lfs -text
+models/segmentation.pyannotate/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+models/embedding.pyannotate/-pytorch[[:space:]]model.bin filter=lfs diff=lfs merge=lfs -text
